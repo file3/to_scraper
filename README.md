@@ -30,4 +30,6 @@ Parse pages with DOMDocument class - the taget pages are currently not valid for
 
 More formats may be kept in description field
 
+Handle pager
+
 Add more unit tests
