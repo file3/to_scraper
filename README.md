@@ -2,7 +2,7 @@
 
 ## System Requirement
 
-Web server running PHP 5.0 or higher with cURL extension and composer installed
+Server running PHP 5.0 or higher with cURL extension and composer installed
 
 ## Installation
 
@@ -26,7 +26,7 @@ http://www.humankraft.hu/~fattila/trafficoptimiser/scraper/
 
 ## TODO and future consideration
 
-Parse pages with DOMDocument class - the taget pages are currently not valid for this
+Parse pages with DOMDocument class - the taget pages are currently not valid/well-formed for this
 
 More formats may be kept in description field
 
