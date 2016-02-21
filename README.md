@@ -34,4 +34,6 @@ Handle pager
 
 Add more error handling
 
+Use spl_autoload_register() to load main class
+
 Add more unit tests
