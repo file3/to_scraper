@@ -32,4 +32,6 @@ More formats may be kept in description field
 
 Handle pager
 
+Add more error handling
+
 Add more unit tests
