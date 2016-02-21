@@ -28,7 +28,7 @@ http://www.humankraft.hu/~fattila/trafficoptimiser/scraper/
 
 Parse pages with DOMDocument class - the taget pages are currently not valid/well-formed for this
 
-More formats may be kept in description field
+Keep more formatting in description field
 
 Handle pager
 
