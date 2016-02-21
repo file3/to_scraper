@@ -26,7 +26,7 @@ http://www.humankraft.hu/~fattila/trafficoptimiser/scraper/
 
 ## TODO and future consideration
 
-Parse pages with DOMDocument class - the taget pages are currently not valid/well-formed for this
+Parse pages with DOMDocument class - the target pages are currently not valid/well-formed for this
 
 Keep more formatting in description field
 
