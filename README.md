@@ -36,4 +36,4 @@ Add more error handling
 
 Use spl_autoload_register() to load main class
 
-Add more unit tests
+Add more unit test cases
